@@ -1,2 +1,2 @@
 # pongo-ponguito
-Estudo lógica-programação
+Study to learn programming logic! 
