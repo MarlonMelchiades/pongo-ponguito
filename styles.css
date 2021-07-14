@@ -1,0 +1,17 @@
+html, body {
+  background-color: rgb(41, 32, 95);
+  display: flex;
+  justify-content: center;
+  font-family: 'Staatliches', cursive;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: 1rem auto;
+}
+
+.titulo-jogo {
+  color: aliceblue;
+  text-align: center; 
+}
